@@ -4,4 +4,5 @@ Real-time Game Translation Using WindowsOCR
 High CPU usage 
 # Requiment
 Windows 10 or abrove
+# Sample
 <img src="https://github.com/zeneisis/ZeneTranslator/blob/main/sample.png">
