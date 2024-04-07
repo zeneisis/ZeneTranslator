@@ -15,4 +15,4 @@ Optional
 See what OCR language support in: https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/language-support#optical-character-recognition-ocr
 
 # Sample
-<img src="https://github.com/zeneisis/ZeneTranslator/blob/main/sample.png">
+<img src="https://github.com/zeneisis/ZeneTranslator/blob/main/sample0.png">
