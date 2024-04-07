@@ -1,5 +1,5 @@
 {
-    "window": "your_game_window",
+    "window": "your_game_window_title",
     "font": "bahnschrift.ttf",
     "ocr_lang": "ja-JP"
 }
