@@ -5,10 +5,11 @@ High CPU usage
 # Requiment
 Windows 10 or abrove
 # How to use
-1. Change game window title (or any window what you want) in config.json (example: Dead or Alive 6, 4k Capture Utility)
-2. Change lang_target in translate_config.json to your language (default: vi)
-3. Change your proxy in translate_config.json if you don't want limit translate per day
-4. Start
+1. Run install.bat to install all reqired packages
+2. Change game window title (or any window what you want) in config.json (example: Dead or Alive 6, 4k Capture Utility)
+3. Change lang_target in translate_config.json to your language (default: vi)
+4. Change your proxy in translate_config.json if you don't want limit translate per day
+5. Start
 
 Optional
 - Change ocr_lang in config.json matching with your game language (default: en-US)
