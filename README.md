@@ -1,7 +1,7 @@
 # ZeneTranslator
 Real-time Game Translation Using WindowsOCR
 # Know Issue 
-High CPU usage 
+High CPU usage when have huge amount text
 # Requiment
 Windows 10 or abrove
 # How to use
