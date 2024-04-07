@@ -12,8 +12,7 @@ Windows 10 or abrove
 5. Start
 
 Optional
-- Change ocr_lang in config.json matching with your game language (default: en-US)
-See what OCR language support in: https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/language-support#optical-character-recognition-ocr
+- Change ocr_lang in config.json matching with your game language (default: en-US). See what OCR language support in: https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/language-support#optical-character-recognition-ocr
 
 # Sample
 <img src="https://github.com/zeneisis/ZeneTranslator/blob/main/sample0.png">
