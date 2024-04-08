@@ -5,7 +5,7 @@ High CPU usage when have huge amount text
 # Requiment
 Windows 10 or abrove
 # How to use
-1. Run install.bat to install all reqired packages
+1. Run install.bat to install all required packages
 2. Change game window title (or any window what you want) in config.json (example: Dead or Alive 6, 4k Capture Utility)
 3. Change lang_target in translate_config.json to your language (default: vi)
 4. Change your proxy in translate_config.json if you don't want limit translate per day
