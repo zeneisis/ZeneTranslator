@@ -4,3 +4,4 @@ pip install PyQt6
 pip install wscreenshot
 pip install pillow
 pip install deep-translator
+pip install pywin32
